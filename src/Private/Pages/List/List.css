@@ -1,0 +1,56 @@
+.popular-box{
+    background-color: rgb(20, 20, 58);
+    width: 320px;
+    margin: 30px;
+    padding: 20px;
+    height: 560px;
+}
+.box-map{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.imgs{
+    width: 300px;
+    height: 370px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.title{
+    text-align: center;
+    color: wheat;
+    margin-top: 10px;
+}
+.year{
+    text-align: center;
+    color: wheat;
+}
+.clas{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.next{
+    background-color: rgb(24, 24, 78);
+    padding: 10px 20px;
+    border-radius: 25px;
+
+}
+.next-link{
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+.page{
+    background-color: rgb(30, 30, 69);
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+}

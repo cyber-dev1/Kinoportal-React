@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "ogabek@gmail.com",
+      "password": "$2a$10$BH64XpCnF3oZz1Wh.9y0Ye1J4/Ux/0MULhp8w2K9huLbu8Cd2brX6",
+      "name": "ogabek",
+      "create": "15 : 18 : 30 : 6 create At ",
+      "id": 1
+    },
+    {
+      "email": "binali@gmail.com",
+      "password": "$2a$10$.u7Ny0chH9tQhv1f1uj6r.SQl09sc2HuXLNJQaw/MyApT30S1n8xK",
+      "name": "binali",
+      "create": "15 : 19 : 30 : 6 create At ",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "text": "Mening ismim ogabek adminman",
+      "userId": 1,
+      "username": "ogabek",
+      "creat": "30 6 15 18",
+      "id": 1
+    }
+  ]
+}

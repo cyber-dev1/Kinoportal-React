@@ -1,0 +1,55 @@
+.actor-box{
+    background-color: rgb(29, 29, 75);
+    height: auto;
+    color: white;
+    
+}
+.actors{
+    width: 370px;
+    height: 570px;
+    border: 1px solid wheat;
+    margin: 30px;
+    
+}
+.actors-map{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.actor{
+    width: 300px;
+    height: 420px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.user-box{
+    background-color: rgb(26, 26, 77);
+    height: 747px;
+    color: #fff;
+}
+.user-img{
+    width: 330px;
+    height: 480px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+.default{
+    font-size: 200px;
+    text-align: center;
+    margin-top: 120px;
+}
+.user-align{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.user-support{
+    flex-basis: 50%;
+}
+.user-descrip{
+    flex-basis: 50%;
+}
