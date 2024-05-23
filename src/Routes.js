@@ -7,8 +7,8 @@ const accessToken = window.localStorage.getItem("token")
 export const rout = createBrowserRouter(
     createRoutesFromElements(
         <>
-            <Route path="/" element={accessToken ? <Home /> : <PublicHome />}>
-                <Route index element={accessToken ? <Default /> : <Register />} />
+            <Route path="/" element={accessToken ?  <Home /> :  <PublicHome /> }>
+                {/* <Route index element={accessToken ? <Default /> : <Register />} /> */}
                 <Route path="tv" element={<Tv />} />
                 <Route path="register" element={<Register />} />
                 <Route path="login" element={<Login />} />

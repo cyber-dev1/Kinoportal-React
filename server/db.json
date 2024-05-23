@@ -13,6 +13,27 @@
       "name": "binali",
       "create": "15 : 19 : 30 : 6 create At ",
       "id": 2
+    },
+    {
+      "email": "ogabek200825@gmail.com",
+      "password": "$2a$10$LEGxOyBpdrpGhPlNTDNNyOfoNscXETadaFwC.0k0qp7bWHnc4vMmi",
+      "name": "ogabek",
+      "create": "15 : 11 : 23 : 4 create At ",
+      "id": 3
+    },
+    {
+      "email": "norqulovogabek2000@gmail.com",
+      "password": "$2a$10$1gP/2/4E32BUeHqOS96l/uMpq9OZKf8CQU0uirrWcpPpGeuA6eJi.",
+      "name": "berdddd",
+      "create": "15 : 26 : 23 : 4 create At ",
+      "id": 4
+    },
+    {
+      "email": "binliss@gmail.com",
+      "password": "$2a$10$FHYtwfq6gxrK9a9/oIP.8eTbNPGwwahIsgB.eLodDGlhnYguXVU0q",
+      "name": "binalis",
+      "create": "15 : 30 : 23 : 4 create At ",
+      "id": 5
     }
   ],
   "posts": [
